@@ -20,5 +20,7 @@ truffle migrate -network development</pre>
 **Front-end (website)**
 - Snapshot:
 **Snapshot of program running**
+- Report:
+**Report for Project Part 1 & Part 2**
 
 <strong>AUTHOR: MUHAMMAD HAZIQ ADLI BIN ZAMZURI (1814981)</strong>
