@@ -16,5 +16,9 @@ truffle migrate -network development</pre>
 **The code is in the /contracts folder**
 - test.js file:
 **The code is in the /test folder**
+- index.html file:
+**Front-end (website)**
+- Snapshot:
+**Snapshot of program running**
 
 <strong>AUTHOR: MUHAMMAD HAZIQ ADLI BIN ZAMZURI (1814981)</strong>
