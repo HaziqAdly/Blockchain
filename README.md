@@ -5,7 +5,7 @@
 - Run development console
 <pre>truffle develop</pre>
 - Local ethereum client
-<pre>ganache-cli -p 8545</pre>
+<pre>ganache-cli -p 9545</pre>
 - Compile and migrate the contract
 <pre>truffle compile
 truffle migrate -network development</pre>
