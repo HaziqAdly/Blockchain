@@ -14,13 +14,19 @@ truffle migrate -network development</pre>
 ## Documentation
 - BankNegaraContract.sol file:
 **The code is in the /contracts folder**
+- Migrations folder:
+**Initialization (truffle init)**
+- Build folder:
+**.json file**
 - test.js file:
 **The code is in the /test folder**
 - index.html file:
 **Front-end (website)**
+- src file:
+**Online source for front-end development**
 - Snapshot:
 **Snapshot of program running**
 - Report:
-**Report for Project Part 1 & Part 2**
+**Report for Project Part 1 & Part 2 (in docx)**
 
 <strong>AUTHOR: MUHAMMAD HAZIQ ADLI BIN ZAMZURI (1814981)</strong>
